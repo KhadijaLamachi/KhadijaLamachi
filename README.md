@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Education: Software Engineering Student at **1337 Coding School (42 Network)**
+- 🎓 Education: Software Engineering Student at **1337 Coding School (42 Network) / UM6P**
 - 💻 Focus: C/C++ Systems Programming, Networking, and Web Technologies
 - 🐧 Environment: Linux, Git, Docker, and Nginx
 
