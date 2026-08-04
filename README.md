@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-Passionate about systems programming, networking, and building software from scratch.
-</p>
-
-<p align="center">
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/greenbinary/klamachi" alt="klamachi's 42 stats">
   </a>
@@ -18,11 +14,9 @@ Passionate about systems programming, networking, and building software from scr
 
 ## 👩‍💻 About Me
 
-- 🎓 Software Engineering student at **1337 Coding School (42 Network)**
-- 💻 Built systems programming projects in **C** and **C++**
-- 🌐 Developed an **HTTP/1.1 web server**, a **UNIX shell**, and **Docker-based infrastructure** as part of the 42 curriculum
-- 🐧 Comfortable working with **Linux**, **Git**, **Docker**, and **Nginx**
-- 📚 Interested in software engineering, networking, operating systems, and modern web technologies
+- 🎓 Education: Software Engineering Student at **1337 Coding School (42 Network)**
+- 💻 Focus: C/C++ Systems Programming, Networking, and Web Technologies
+- 🐧 Environment: Linux, Git, Docker, and Nginx
 
 ---
 
@@ -58,11 +52,8 @@ Passionate about systems programming, networking, and building software from scr
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/khadija-lamachi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:khadijalamachi2022@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
