@@ -3,6 +3,7 @@
 <p align="center">
   <strong>Software Engineering Student • 1337 Coding School (42 Network)</strong>
 </p>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/klamachi" alt="klamachi's 42 stats" /></a>
 
 ---
 
