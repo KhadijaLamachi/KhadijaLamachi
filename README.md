@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Khadija Lamachi</h1>
 
 <p align="center">
-  <strong>Software Engineering Student • 1337 Coding School (42 Network)</strong>
+<strong>Software Engineering Student • 1337 Coding School (42 Network)</strong>
 </p>
-<br/>
+
+<p align="center">
+Passionate about systems programming, networking, and building software from scratch.
+</p>
+
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/greenbinary/klamachi" alt="klamachi's 42 stats">
