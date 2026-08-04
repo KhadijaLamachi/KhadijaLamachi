@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Khadija Lamachi</h1>
 
 <p align="center">
-Software Engineering Student at <strong>1337 Coding School (42 Network)</strong>
+  <strong>Software Engineering Student • 1337 Coding School (42 Network)</strong>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Studying Software Engineering at **1337 Coding School (42 Network)**
-- 💻 Experienced in building systems programming projects in **C** and **C++**
-- 🌐 Built an **HTTP/1.1 web server**, a **UNIX shell**, and **Docker-based infrastructure** as part of the 42 curriculum
-- 🐧 Comfortable working in a **Linux** environment with **Git** and **Docker**
+- 🎓 Software Engineering student at **1337 Coding School (42 Network)**
+- 💻 Built systems programming projects in **C** and **C++**
+- 🌐 Developed an **HTTP/1.1 web server**, a **UNIX shell**, and **Docker-based infrastructure** as part of the 42 curriculum
+- 🐧 Comfortable working with **Linux**, **Git**, **Docker**, and **Nginx**
 - 📚 Interested in software engineering, networking, operating systems, and modern web technologies
 
 ---
@@ -33,28 +33,26 @@ Software Engineering Student at <strong>1337 Coding School (42 Network)</strong>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### Concepts
-
-- HTTP/1.1
-- CGI
-- Socket Programming
-- Multithreading
-- Object-Oriented Programming
-
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| 🌐 **Webserv** | HTTP/1.1 web server supporting multiple HTTP methods, CGI execution, file uploads and configurable virtual servers. | C++ |
-| 🐚 **Minishell** | UNIX shell implementing parsing, pipes, redirections, signals and built-in commands. | C |
-| 🐳 **Inception** | Docker infrastructure composed of NGINX, WordPress and MariaDB using Docker Compose. | Docker |
-| 🍝 **Philosophers** | Concurrent implementation of the Dining Philosophers problem using threads and mutexes. | C |
+| Project | Description | Language |
+|---------|-------------|----------|
+| 🌐 **[Webserv](https://github.com/KhadijaLamachi/webserv)** | HTTP/1.1 web server supporting CGI, configurable virtual servers, file uploads, and multiple HTTP methods. | C++ |
+| 🐚 **[Minishell](https://github.com/KhadijaLamachi/minishell)** | UNIX shell implementing parsing, pipes, redirections, signals, environment variables, and built-in commands. | C |
+| 🐳 **[Inception](https://github.com/KhadijaLamachi/inception)** | Docker infrastructure using Docker Compose with NGINX, WordPress, and MariaDB. | Docker |
+| 🍝 **[Philosophers](https://github.com/KhadijaLamachi/philosophers)** | Concurrent implementation of the Dining Philosophers problem using threads and mutexes. | C |
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: *https://www.linkedin.com/in/khadija-lamachi/*
-- Email: *khadijalamachi2022@gmail.com*
+<p align="left">
+  <a href="https://www.linkedin.com/in/khadija-lamachi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:khadijalamachi2022@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
