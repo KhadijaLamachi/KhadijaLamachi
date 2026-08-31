@@ -46,7 +46,7 @@
 | 🌐 **[Webserv](https://github.com/KhadijaLamachi/webserv)** | HTTP/1.1 web server supporting CGI, configurable virtual servers, file uploads, and multiple HTTP methods. | C++ |
 | 🐚 **[Minishell](https://github.com/KhadijaLamachi/minishell)** | UNIX shell implementing parsing, pipes, redirections, signals, environment variables, and built-in commands. | C |
 | 🐳 **[Inception](https://github.com/KhadijaLamachi/inception)** | Docker infrastructure using Docker Compose with NGINX, WordPress, and MariaDB. | Docker |
-| 🍝 **[Philosophers](https://github.com/KhadijaLamachi/philosophers)** | Concurrent implementation of the Dining Philosophers problem using threads and mutexes. | C |
+| 🍝 **[Philosophers](https://github.com/KhadijaLamachi/philosofers)** | Concurrent implementation of the Dining Philosophers problem using threads and mutexes. | C |
 
 ---
 
